@@ -10,9 +10,14 @@ void lineSegment(void)
 {
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1.0,0.0,0.0);
-	glBegin(GL_LINES);
+	/*glBegin(GL_LINES);
 		glVertex2i(180,15);
 		glVertex2i(10,145);
+	glEnd();*/
+	glBegin(GL_POINTS);
+	glVertex2i(5,10);
+	glVertex2i(7.5,15);
+	glVertex2i(10,20);
 	glEnd();
 	glFlush();
 }
