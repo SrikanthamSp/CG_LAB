@@ -11,4 +11,4 @@ gcc filename.c -lglut -lGL -lGLU (compile)
 ./a.out(output)
 ```
 
-**<ins>Note </ins>: This program and command is exectued in Ubantu OS.**
+**<ins>Note </ins>: This program and command is exectued in Ubantu OS terminal.**
