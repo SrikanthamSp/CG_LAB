@@ -9,4 +9,4 @@ gcc filename.c -lglut -lGL -lGLU (compile)
 ./a.out(output)
 ```
 
-**<ins>Note </ins>: This program and commands are exectued in Ubantu OS terminal.**
+**<ins>Note </ins>: This programs and commands are exectued in Ubantu OS terminal.**
