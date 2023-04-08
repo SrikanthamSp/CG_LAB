@@ -1,6 +1,6 @@
 ## Sample Program
 
-**In this program we create a straight line with two point vertex and create points using three point vertex.**
+**In this program we create a straight line with two point vertices & create points using three point vertices.**
 
 ### To Compile this program type this in command promt
 ```
@@ -11,4 +11,4 @@ gcc filename.c -lglut -lGL -lGLU (compile)
 ./a.out(output)
 ```
 
-**<ins>Note </ins>: This program and command is exectued in Ubantu OS terminal.**
+**<ins>Note </ins>: This program and commands are exectued in Ubantu OS terminal.**
